@@ -1,0 +1,12 @@
+{
+    "node_port": 3002,
+    "db": {
+        "username": "postgres",
+        "password": "postgres",
+        "database": "nodejs_1",
+        "options": {
+            "host": "127.0.0.1",
+            "dialect": "postgres"
+        }
+    }
+}
